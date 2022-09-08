@@ -9,4 +9,4 @@ Junior Business Analyst with proficiency in visualization and data tools with th
 *   🌍  I'm based in Mannheim, Germany
 *   ✉️  You can contact me at [nishant-dhir@hotmail.com](mailto:nishant-dhir@hotmail.com)
 *   🧠  I'm learning SQL.
-*   🤝  I'm open to collaborating on PowerBI projects
+*   🤝  I'm open to collaborating on Data Analyst projects
