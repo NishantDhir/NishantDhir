@@ -9,5 +9,5 @@ Data Analyst with proficiency in visualization and data tools with the goal of s
 *   🌍  I'm based in Mannheim, Germany
 *   ✉️  You can contact me at [nishant-dhir@hotmail.com](mailto:nishant-dhir@hotmail.com)
 *   🤝  I'm open to collaborating on Business Data Analyst/Visualization projects
-*   💻  Currently learning SQL and Python 
-*   📃  Pursing Certifications from Google
+*   💻  Currently learning Python 
+*   📃  Pursing Certifications from Google (Data Analytics and Python Automation)
