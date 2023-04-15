@@ -10,4 +10,4 @@ Business Data Analyst with proficiency in visualization and data tools with the 
 *   ✉️  You can contact me at [nishant-dhir@hotmail.com](mailto:nishant-dhir@hotmail.com)
 *   🤝  I'm open to collaborating on Business Data Analyst/Visualization projects
 *   💻  Currently learning Python 
-*   📃  Pursing Certifications from Google (Data Analytics and Python Automation)
+*   📃  Pursing Certifications from Google (Businesss Intelligence Analytics and Python Automation)
