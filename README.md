@@ -23,3 +23,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - SQL : Query - Basic to Advance, Post Gre SQL and My SQL WorkBench
 - Data Visualisation : Tableau, Power BI - Dax Measures, Power Query and Data Modelling
 - Python : Pandas and  Matplotlib 
+
+## 💻 Office Skills 
+
+- Microsoft : Excel, PowerPoint, Outlook, Sharepoint and Teams.
+- Google : Spreadsheets, Slides, Gmail, and GMeet
