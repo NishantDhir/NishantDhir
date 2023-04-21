@@ -7,9 +7,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - Passionate to influence business decisions and drive growth and profitability. Obtained a professional certification in Google Data Analytics, where I built a strong foundation in the field of analytics and gained valuable experience using tools like Big Query, Spreadsheet, and Tableau.
 
-- Passionate for IT Automation process 
-
-
 ## 📊 Business Projects
 
 - [Excel]([https://github.com/NishantDhir/Excel-Projects]): Supply Chain and Freight Analysis, Product and Customer Segmentation Analysis
