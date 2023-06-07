@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## ✍🏻 About Me 
 
-- An Business Analyst Intern who is looking for a full time position for Business Intelligence roles. Professional Business Intelligence Certification through which I strengthened my foundations and gaining valuable skills like Data Modelling, Data Pipeline and Stakeholder Management.
+- An Aspiring Business Analyst who is looking for a full time position for Business Intelligence roles. Professional Business Intelligence Certification through which I strengthened my foundations and gaining valuable skills like Data Modelling, Data Pipeline and Stakeholder Management.
 
 - Passionate to influence business decisions and drive growth and profitability. Obtained a professional certification in Google Data Analytics, where I built a strong foundation in the field of analytics and gained valuable experience using tools like Big Query, Spreadsheet, and Tableau.
 
@@ -14,7 +14,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - [Power BI]([https://github.com/NishantDhir/Power-BI-Projects]): Finance, FMCG, Supply Chain, Marketing and Sales, Hospitality and Manufacturing Analysis
 - [Tableau]([https://github.com/NishantDhir/Tablaeu-Projects]): Covid and Customer Analysis
 - [Google Data Studio]([https://github.com/NishantDhir/Google-Data-Studio-Projects]): Product Analysis, HR Analysis, Stock Market Analysis and Sports Analysis
-- [Python]([https://github.com/NishantDhir/Python-Projects]): Sports Analysis
 
 
 ## 💻 Technical Skills 
@@ -22,11 +21,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - Excel : Conditional Formatting and Pivot Tables.
 - SQL : Query - Basic to Advance, Post Gre SQL and My SQL WorkBench.
 - Data Visualisation : Tableau, Power BI - Dax Measures, Power Query and Data Modelling.
-- Python: Pandas and  Jupyter. 
 - Cloud : Big Query, Google Data Studio and Spreadsheets.
 
 ## 💻 Office Skills 
 
 - Microsoft : Excel, PowerPoint, Outlook, Sharepoint and Teams.
 - Google : Spreadsheets, Slides, Gmail and GMeet.
-- Slack
+- Slack and Salesforce
