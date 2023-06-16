@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## ✍🏻 About Me 
 
-- An Aspiring Business Analyst who is looking for a full time position for Business Intelligence roles. Professional Business Intelligence Certification through which I strengthened my foundations and gaining valuable skills like Data Modelling, Data Pipeline and Stakeholder Management.
+- Business Analyst who is looking for a full time position for Business Intelligence roles. Professional Business Intelligence Certification through which I strengthened my foundations and gaining valuable skills like Data Modelling, Data Pipeline and Stakeholder Management.
 
 - Passionate to influence business decisions and drive growth and profitability. Obtained a professional certification in Google Data Analytics, where I built a strong foundation in the field of analytics and gained valuable experience using tools like Big Query, Spreadsheet, and Tableau.
 
