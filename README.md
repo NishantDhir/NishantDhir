@@ -3,9 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## ✍🏻 About Me 
 
-- Business Analyst who is looking for a full time position for Business Intelligence roles. Professional Business Intelligence Certification through which I strengthened my foundations and gaining valuable skills like Data Modelling, Data Pipeline and Stakeholder Management.
+- Aspiring Business Analyst who is looking for a full-time position in Business Intelligence roles. Obtained a professional certification in Google Business Intelligence Analytics, where I explored the roles of business intelligence (BI) professionals within an organization and created dashboards that effectively communicate data insights to stakeholders.
 
-- Passionate to influence business decisions and drive growth and profitability. Obtained a professional certification in Google Data Analytics, where I built a strong foundation in the field of analytics and gained valuable experience using tools like Big Query, Spreadsheet, and Tableau.
+- Obtained professional certification in Google Project Management, where I learned the foundations of Agile project management, created effective project documentation and artifacts throughout the various phases of a project, and practiced strategic communication, problem-solving, and stakeholder management through real-world scenarios.
 
 ## 📊 Business Projects
 
@@ -18,15 +18,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 💻 Technical Skills 
 
-- Excel : Conditional Formatting and Pivot Tables.
-- SQL : Query - Basic to Advance, Post Gre SQL and My SQL WorkBench.
-- Data Visualisation : Tableau, Power BI - Dax Measures, Power Query and Data Modelling.
-- Cloud : Big Query, Google Data Studio and Spreadsheets.
+- Excel: Conditional Formatting and Pivot Tables.
+- SQL: Query - Basic to Advance, Post Gre SQL, and My SQL WorkBench.
+- Data Visualisation: Tableau, Power BI - Dax Measures, Power Query and Data Modelling.
+- Cloud: Big Query, Google Data Studio, and Spreadsheets.
 - ERP : SAP S/4 HANA and Tally 9.
-- CRM : Salesforce.
-- Project Management : Asana and Trello. 
+- CRM: Salesforce.
+- Project Management: Asana and Trello. 
 
 ## 💻 Office Skills 
 
-- Microsoft : Excel, PowerPoint, Outlook, Sharepoint and Teams.
-- Google : Spreadsheets, Slides, Gmail and GMeet.
+- Microsoft: Excel, PowerPoint, Outlook, Sharepoint, and Teams.
+- Google: Spreadsheets, Slides, Gmail, and GMeet.
