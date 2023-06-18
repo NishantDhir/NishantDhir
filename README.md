@@ -13,14 +13,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - [SQL]([https://github.com/NishantDhir/SQL-Projects]): E-Commerce and Movies Sales Analysis
 - [Power BI]([https://github.com/NishantDhir/Power-BI-Projects]): Finance, FMCG, Supply Chain, Marketing and Sales, Hospitality and Manufacturing Analysis
 - [Tableau]([https://github.com/NishantDhir/Tablaeu-Projects]): Covid and Customer Analysis
-- [Google Data Studio]([https://github.com/NishantDhir/Google-Data-Studio-Projects]): Product Analysis, HR Analysis, Stock Market Analysis and Sports Analysis
+- [Google Data Studio]([https://github.com/NishantDhir/Google-Data-Studio-Projects]): Product Analysis, HR Analysis, Stock Market Analysis, and Sports Analysis
 
 
 ## 💻 Technical Skills 
 
 - Excel: Conditional Formatting and Pivot Tables.
 - SQL: Query - Basic to Advance, Post Gre SQL, and My SQL WorkBench.
-- Data Visualisation: Tableau, Power BI - Dax Measures, Power Query and Data Modelling.
+- Data Visualisation: Tableau, Power BI - Dax Measures, Power Query, and Data Modelling.
 - Cloud: Big Query, Google Data Studio, and Spreadsheets.
 - ERP : SAP S/4 HANA and Tally 9.
 - CRM: Salesforce.
@@ -29,4 +29,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ## 💻 Office Skills 
 
 - Microsoft: Excel, PowerPoint, Outlook, Sharepoint, and Teams.
-- Google: Spreadsheets, Slides, Gmail, and GMeet.
+- Google: Spreadsheets, Slides, Gmail, and Gmeet.
