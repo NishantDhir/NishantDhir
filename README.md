@@ -26,7 +26,21 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - CRM: Salesforce.
 - Project Management: Asana and Trello. 
 
-## 💻 Office Skills 
+## 🖱 Office Skills 
 
 - Microsoft: Excel, PowerPoint, Outlook, Sharepoint, and Teams.
 - Google: Spreadsheets, Slides, Gmail, and Gmeet.
+
+## 📃 Professional Certification 
+
+- Microsoft Power BI Data Analyst Professional Certification.
+- Microsoft Dynamics 365 Professional Certification.
+- Google Digital Marketing and E-Commerce Professional Certification.
+- Google Project Management Professional Certification.
+- Google Business Professional Professional Certification.
+- Google Data Analyst Professional Certification.
+- Google Looker Studion Professional Certification.
+- Salesforce Sales Operations Professional Certification.
+- Enterprise Resource Planning with SAP S/4 HANA Professional Certification.
+- Excel 2016 Interpreting Data for Insights Professional Certification.
+- Sharepoint 2019 Essential Training Professional Certification. 
