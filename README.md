@@ -3,9 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## ✍🏻 About Me 
 
-- Aspiring Business Analyst who is looking for a full-time position in Business Intelligence roles. Obtained a professional certification in Google Business Intelligence Analytics, where I explored the roles of business intelligence (BI) professionals within an organization and created dashboards that effectively communicate data insights to stakeholders.
-
-- Obtained professional certification in Google Project Management, where I learned the foundations of Agile project management, created effective project documentation and artifacts throughout the various phases of a project, and practiced strategic communication, problem-solving, and stakeholder management through real-world scenarios.
+A highly skilled Business Management professional with demonstrated experience in Business Analytics and  Marketing with profound experience in generating insights with visualization. 
+Knowledgeable with a diverse skill set in Microsoft tools, including Microsoft Excel - an indispensable tool for data cleaning, lookup as well and visualization. Highly skilled in Microsoft Power BI - an indispensable tool for advanced data cleansing, ETL, and visualization. Capable of performing rigorous analysis in sequence with the industry-leading platform Salesforce. Knowledgeable with Project Management methodologies like Agile and Waterfall and tools like Jira, Confluence, and Asana. Skilled in Marketing tools like Social Media Analytics, Google Analytics, Campaign Performance Analysis and Email Marketing.
 
 ## 📊 Business Projects
 
