@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ## ✍🏻 About Me 
 
 A highly skilled Business Management professional with demonstrated experience in Business Analytics and  Marketing with profound experience in generating insights with visualization. 
-Knowledgeable with a diverse skill set in Microsoft tools, including Microsoft Excel - an indispensable tool for data cleaning, lookup as well and visualization. Highly skilled in Microsoft Power BI - an indispensable tool for advanced data cleansing, ETL, and visualization. As a business analyst, my GitHub showcases a diverse range of data-driven projects and analytical solutions. I leverage my expertise in data analysis, visualization, and problem-solving to extract valuable insights from complex datasets. Through hands-on experience with Excel, SQL, and Power BI, I have developed impactful dashboards and reports, aiding informed decision-making. My GitHub reflects my passion for exploring data and contributing to meaningful business strategies.
+Knowledgeable with a diverse skill set in Microsoft tools, including Microsoft Excel - an indispensable tool for data cleaning, lookup, and visualization. Highly skilled in Microsoft Power BI - an indispensable tool for advanced data cleansing, ETL, and visualization. As a business analyst, my GitHub showcases diverse data-driven projects and analytical solutions. I leverage my data analysis, visualization, and problem-solving expertise to extract valuable insights from complex datasets. Through hands-on experience with Excel, SQL, and Power BI, I have developed impactful dashboards and reports, aiding informed decision-making. My GitHub reflects my passion for exploring data and contributing to meaningful business strategies.
 
 ## 📊 Business Projects
 
@@ -21,9 +21,11 @@ Knowledgeable with a diverse skill set in Microsoft tools, including Microsoft E
 - SQL: Query - Basic to Advance, Post Gre SQL, and My SQL WorkBench.
 - Data Visualisation: Tableau, Power BI - Dax Measures, Power Query, and Data Modelling.
 - Cloud: Big Query, Google Data Studio, and Spreadsheets.
-- ERP : SAP S/4 HANA and Tally 9.
+- ERP: SAP S/4 HANA and Tally 9.
 - CRM: Salesforce.
-- Project Management: Asana and Trello. 
+- Project Management: Asana and Trello.
+- Power Platform: Power Apps, Virtual Agents, Power BI. 
+- Designing: Figma, Canva, Powerpoint. 
 
 ## 🖱 Office Skills 
 
@@ -34,11 +36,13 @@ Knowledgeable with a diverse skill set in Microsoft tools, including Microsoft E
 
 - Microsoft Power BI Data Analyst Professional Certification.
 - Microsoft Dynamics 365 Professional Certification.
+- Microsoft Power Platform Professional Certification.
 - Google Digital Marketing and E-Commerce Professional Certification.
 - Google Project Management Professional Certification.
 - Google Business Professional Professional Certification.
 - Google Data Analyst Professional Certification.
 - Google Looker Studion Professional Certification.
+- Google UX Design Professional Certification. 
 - Salesforce Sales Operations Professional Certification.
 - Enterprise Resource Planning with SAP S/4 HANA Professional Certification.
 - Excel 2016 Interpreting Data for Insights Professional Certification.
