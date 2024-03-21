@@ -23,9 +23,9 @@ Knowledgeable with a diverse skill set in Microsoft tools, including Microsoft E
 - Cloud: Big Query, Google Data Studio, and Spreadsheets.
 - ERP: SAP S/4 HANA and Tally 9.
 - CRM: Salesforce.
-- Project Management: Asana and Trello.
+- Project Management: Jira, Confluence, Asana and Trello.
 - Power Platform: Power Apps, Virtual Agents, Power BI. 
-- Designing: Figma, Canva, Powerpoint. 
+- Designing: Canva, Powerpoint. 
 
 ## 🖱 Office Skills 
 
@@ -41,8 +41,8 @@ Knowledgeable with a diverse skill set in Microsoft tools, including Microsoft E
 - Google Project Management Professional Certification.
 - Google Business Professional Professional Certification.
 - Google Data Analyst Professional Certification.
-- Google Looker Studion Professional Certification.
-- Google UX Design Professional Certification. 
+- Google Looker Studio Professional Certification.
+- Tableau Business Intelligence Professional Certification.
 - Salesforce Sales Operations Professional Certification.
 - Enterprise Resource Planning with SAP S/4 HANA Professional Certification.
 - Excel 2016 Interpreting Data for Insights Professional Certification.
