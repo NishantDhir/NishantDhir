@@ -1,49 +1,49 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nishant Dhir
-===================================================================================================================================
+# Hi there! 👋 I'm [Nishant Dhir]
 
-## ✍🏻 About Me 
+## About Me
+I'm a highly skilled Business Intelligence Analyst with a background in Business Management and Marketing. My expertise lies in generating actionable insights through data analysis and visualization. I specialize in utilizing Microsoft tools such as Excel and Power BI to extract valuable insights from complex datasets. My GitHub showcases a variety of data-driven projects and analytical solutions that demonstrate my proficiency in solving business challenges with data-driven strategies.
 
-A highly skilled Business Management professional with demonstrated experience in Business Analytics and  Marketing with profound experience in generating insights with visualization. 
-Knowledgeable with a diverse skill set in Microsoft tools, including Microsoft Excel - an indispensable tool for data cleaning, lookup, and visualization. Highly skilled in Microsoft Power BI - an indispensable tool for advanced data cleansing, ETL, and visualization. As a business analyst, my GitHub showcases diverse data-driven projects and analytical solutions. I leverage my data analysis, visualization, and problem-solving expertise to extract valuable insights from complex datasets. Through hands-on experience with Excel, SQL, and Power BI, I have developed impactful dashboards and reports, aiding informed decision-making. My GitHub reflects my passion for exploring data and contributing to meaningful business strategies.
+## Business Projects 📊
+- **Excel**: Supply Chain and Freight Analysis, Product and Customer Segmentation Analysis
+- **SQL**: E-Commerce and Movies Sales Analysis
+- **Power BI**: Finance, FMCG, Supply Chain, Marketing and Sales, Hospitality, and Manufacturing Analysis
+- **Tableau**: Covid and Customer Analysis
+- **Google Data Studio**: Product Analysis, HR Analysis, Stock Market Analysis, and Sports Analysis
 
-## 📊 Business Projects
+## Technical Skills 💻
+- **Excel**: Conditional Formatting and Pivot Tables
+- **SQL**: Query - Basic to Advance, Post Gre SQL, and My SQL WorkBench
+- **Data Visualization**: Tableau, Power BI - Dax Measures, Power Query, and Data Modeling
+- **Cloud**: Big Query, Google Data Studio, and Spreadsheets
+- **ERP**: SAP S/4 HANA and Tally 9
+- **CRM**: Salesforce
+- **Project Management**: Jira, Confluence, Asana, and Trello
+- **Power Platform**: Power Apps, Virtual Agents, Power BI
+- **Designing**: Canva, PowerPoint
 
-- [Excel]([https://github.com/NishantDhir/Excel-Projects]): Supply Chain and Freight Analysis, Product and Customer Segmentation Analysis
-- [SQL]([https://github.com/NishantDhir/SQL-Projects]): E-Commerce and Movies Sales Analysis
-- [Power BI]([https://github.com/NishantDhir/Power-BI-Projects]): Finance, FMCG, Supply Chain, Marketing and Sales, Hospitality and Manufacturing Analysis
-- [Tableau]([https://github.com/NishantDhir/Tablaeu-Projects]): Covid and Customer Analysis
-- [Google Data Studio]([https://github.com/NishantDhir/Google-Data-Studio-Projects]): Product Analysis, HR Analysis, Stock Market Analysis, and Sports Analysis
+## Office Skills 🖱
+- **Microsoft**: Excel, PowerPoint, Outlook, SharePoint, and Teams
+- **Google**: Spreadsheets, Slides, Gmail, and Gmeet
 
+## Professional Certification 📃
+- Microsoft Power BI Data Analyst Professional Certification
+- Microsoft Dynamics 365 Professional Certification
+- Microsoft Power Platform Professional Certification
+- Google Digital Marketing and E-Commerce Professional Certification
+- Google Project Management Professional Certification
+- Google Business Professional Professional Certification
+- Google Data Analyst Professional Certification
+- Google Looker Studio Professional Certification
+- Tableau Business Intelligence Professional Certification
+- Salesforce Sales Operations Professional Certification
+- Enterprise Resource Planning with SAP S/4 HANA Professional Certification
+- Excel 2016 Interpreting Data for Insights Professional Certification
+- SharePoint 2019 Essential Training Professional Certification
 
-## 💻 Technical Skills 
+## Credly Badges 🏅
+[![Google Project Management]([(https://www.credly.com/badges/aba8c5d9-0d9c-4734-a832-b523f9bf31a1/public_url)])
+[![Google Business Intelligence]([https://www.credly.com/badges/9262ef97-619b-4715-be20-3d68dd1ae3bf/public_url])
+[![Google Data Analyis]([https://www.credly.com/badges/ae81c255-273d-4103-8921-621070130286/public_url])
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nishant-dhir/)!
 
-- Excel: Conditional Formatting and Pivot Tables.
-- SQL: Query - Basic to Advance, Post Gre SQL, and My SQL WorkBench.
-- Data Visualisation: Tableau, Power BI - Dax Measures, Power Query, and Data Modelling.
-- Cloud: Big Query, Google Data Studio, and Spreadsheets.
-- ERP: SAP S/4 HANA and Tally 9.
-- CRM: Salesforce.
-- Project Management: Jira, Confluence, Asana and Trello.
-- Power Platform: Power Apps, Virtual Agents, Power BI. 
-- Designing: Canva, Powerpoint. 
-
-## 🖱 Office Skills 
-
-- Microsoft: Excel, PowerPoint, Outlook, Sharepoint, and Teams.
-- Google: Spreadsheets, Slides, Gmail, and Gmeet.
-
-## 📃 Professional Certification 
-
-- Microsoft Power BI Data Analyst Professional Certification.
-- Microsoft Dynamics 365 Professional Certification.
-- Microsoft Power Platform Professional Certification.
-- Google Digital Marketing and E-Commerce Professional Certification.
-- Google Project Management Professional Certification.
-- Google Business Professional Professional Certification.
-- Google Data Analyst Professional Certification.
-- Google Looker Studio Professional Certification.
-- Tableau Business Intelligence Professional Certification.
-- Salesforce Sales Operations Professional Certification.
-- Enterprise Resource Planning with SAP S/4 HANA Professional Certification.
-- Excel 2016 Interpreting Data for Insights Professional Certification.
-- Sharepoint 2019 Essential Training Professional Certification. 
+Let's collaborate and turn data into insights together! 🚀
