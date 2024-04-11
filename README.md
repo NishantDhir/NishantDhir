@@ -41,6 +41,6 @@ I'm a highly skilled Business Intelligence Analyst with a background in Business
 - SharePoint 2019 Essential Training Professional Certification
 
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nishant-dhir/)! [Portfilio]((https://mavenanalytics.io/profile/Nishant-Dhir/105172593))!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nishant-dhir/)!
 
 Let's collaborate and turn data into insights together! 🚀
