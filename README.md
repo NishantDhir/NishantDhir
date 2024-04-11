@@ -42,5 +42,6 @@ I'm a highly skilled Business Intelligence Analyst with a background in Business
 
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nishant-dhir/)!
+Feel free to connect with me on [Portfolio]((https://mavenanalytics.io/profile/Nishant-Dhir/105172593))!
 
 Let's collaborate and turn data into insights together! 🚀
