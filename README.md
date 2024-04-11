@@ -41,9 +41,10 @@ I'm a highly skilled Business Intelligence Analyst with a background in Business
 - SharePoint 2019 Essential Training Professional Certification
 
 ## Credly Badges 🏅
-[![Google Project Management]([(https://www.credly.com/badges/aba8c5d9-0d9c-4734-a832-b523f9bf31a1/public_url)])
-[![Google Business Intelligence]([https://www.credly.com/badges/9262ef97-619b-4715-be20-3d68dd1ae3bf/public_url])
-[![Google Data Analyis]([https://www.credly.com/badges/ae81c255-273d-4103-8921-621070130286/public_url])
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nishant-dhir/)!
+[![Google Project Management]((https://www.credly.com/earner/earned/badge/aba8c5d9-0d9c-4734-a832-b523f9bf31a1))]([(https://www.credly.com/badges/aba8c5d9-0d9c-4734-a832-b523f9bf31a1/public_url)])
+[![Google Business Intelligence]((https://www.credly.com/earner/earned/badge/9262ef97-619b-4715-be20-3d68dd1ae3bf))]([https://www.credly.com/badges/9262ef97-619b-4715-be20-3d68dd1ae3bf/public_url])
+[![Google Data Analytics]((https://www.credly.com/earner/earned/badge/ae81c255-273d-4103-8921-621070130286))]([badge3_credly_link](https://www.credly.com/badges/ae81c255-273d-4103-8921-621070130286/public_url]))
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nishant-dhir/), [Portfilio]((https://mavenanalytics.io/profile/Nishant-Dhir/105172593))!
 
 Let's collaborate and turn data into insights together! 🚀
