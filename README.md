@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm [Nishant Dhir]
 
 ## About Me
-I'm a highly skilled Business Intelligence Analyst with a background in Business Management and Marketing. My expertise lies in generating actionable insights through data analysis and visualization. I specialize in utilizing Microsoft tools such as Excel and Power BI to extract valuable insights from complex datasets. My GitHub showcases a variety of data-driven projects and analytical solutions that demonstrate my proficiency in solving business challenges with data-driven strategies.
+Dedicated Business Intelligence Analyst committed to delivering impactful insights and driving data-driven decision-making in every aspect of the business. Thrives in dynamic environments, adept at transforming complex data into actionable strategies, and passionate about fostering collaboration and driving growth. Expert in Data Visualization & Product Analytics. Driving Growth in IT Products. 
 
 ## Business Projects 📊
 - **Excel**: Supply Chain and Freight Analysis, Product and Customer Segmentation Analysis
