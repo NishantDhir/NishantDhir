@@ -5,8 +5,8 @@ Dedicated Business Intelligence Analyst committed to delivering impactful insigh
 
 ## Business Projects 📊
 - **Excel**: Supply Chain and Freight Analysis, Product and Customer Segmentation Analysis
-- **SQL**: E-Commerce and Movies Sales Analysis
-- **Power BI**: Finance, FMCG, Supply Chain, Marketing and Sales, Hospitality, and Manufacturing Analysis
+- **SQL**: E-Commerce, Movies Sales Analysis, Automobile and Restaurants
+- **Power BI**: Finance, FMCG, Supply Chain, Marketing and Sales, Hospitality, Manufacturing Analysis, Supply Chain, Telecom, Hospitality, Banking, Product, EV, Retail, Project Management, Food, Food Inspection
 - **Tableau**: Covid and Customer Analysis
 - **Google Data Studio**: Product Analysis, HR Analysis, Stock Market Analysis, and Sports Analysis
 
