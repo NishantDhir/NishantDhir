@@ -26,6 +26,7 @@ Dedicated Business Intelligence Analyst committed to delivering impactful insigh
 - **Google**: Spreadsheets, Slides, Gmail, and Gmeet
 
 ## Professional Certification 📃
+- Microsoft Business Analyst Professional Certification
 - Microsoft Power BI Data Analyst Professional Certification
 - Microsoft Dynamics 365 Professional Certification
 - Microsoft Power Platform Professional Certification
