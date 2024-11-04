@@ -35,6 +35,7 @@ Dedicated Business Intelligence Analyst committed to delivering impactful insigh
 - Google Business Professional Professional Certification
 - Google Data Analyst Professional Certification
 - Google Looker Studio Professional Certification
+- Google AI Fundamentals
 - Tableau Business Intelligence Professional Certification
 - Salesforce Sales Operations Professional Certification
 - Enterprise Resource Planning with SAP S/4 HANA Professional Certification
