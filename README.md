@@ -11,7 +11,7 @@ Dedicated Business Intelligence Analyst committed to delivering impactful insigh
 - **Google Data Studio**: Product Analysis, HR Analysis, Stock Market Analysis, and Sports Analysis
 
 ## Technical Skills 💻
-- **Excel**: Conditional Formatting and Pivot Tables
+- **Excel**: Dax, Data Modelling, Power Query, Conditional Formatting, Pivot Tables and Charts
 - **SQL**: Query - Basic to Advance, Post Gre SQL, and My SQL WorkBench
 - **Data Visualization**: Tableau, Power BI - Dax Measures, Power Query, and Data Modeling
 - **Cloud**: Big Query, Google Data Studio, and Spreadsheets
